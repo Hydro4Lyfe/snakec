@@ -1,6 +1,6 @@
 # Snake-C
 
-Command line version of Snake game.  Uses commandline clear to refresh screen so Windows only.  
+Command line version of Snake game.  Uses command line "cls" to refresh screen so Windows only.  
 
 Build command:
 ```
